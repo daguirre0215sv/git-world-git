@@ -1,7 +1,8 @@
 public class index{
 
 public static void main(String[] args) {
-  System.out.println("Hola Mundo");  
+String  nnombre ="Aarón";
+  System.out.println("Mi nombre es: "+nnombre);  
 
     
 }
